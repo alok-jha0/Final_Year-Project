@@ -49,5 +49,5 @@ This project implements a **Virtual Mouse** using **hand gestures** detected via
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Virtual-Mouse-using-Hand-Gesture.git
+   git clone https://github.com/alok-jha0/Virtual-Mouse-using-Hand-Gesture.git
    cd Virtual-Mouse-using-Hand-Gesture
